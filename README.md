@@ -10,6 +10,6 @@ This repository is the implementation of CenterSnap paper:
 Create a python 3.8 virtual environment and install requirements:
 
 ```bash
-cd git clone francis-j-k/CenterSnapImplimentation
+cd git clone git@github.com:francis-j-k/CenterSnap_Implimentation.git
 ```
 Run the jupyter Notebook on a T4 GPU 
