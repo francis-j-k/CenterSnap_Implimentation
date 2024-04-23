@@ -12,4 +12,7 @@ Create a python 3.8 virtual environment and install requirements:
 ```bash
 cd git clone git@github.com:francis-j-k/CenterSnap_Implimentation.git
 ```
-Run the jupyter Notebook on a T4 GPU 
+
+Or else
+
+Run the jupyter Notebook on a google colab with a T4 GPU 
